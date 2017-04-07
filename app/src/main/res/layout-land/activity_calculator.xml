@@ -26,6 +26,7 @@
     <include layout="@layout/content_calculator"
         android:id="@+id/include"
         android:layout_width="360dp"
+        android:layout_height="360dp"/>
 
 
 
